@@ -48,3 +48,27 @@ hr{
 	padding-right: 18px;
 	padding-left: 18px;
 	border-radius: 3px;
+}
+
+.img-responsive{
+	padding:10px;
+
+}
+
+#rectangle-popular {
+	    width: 130px;
+    height: 35px;
+	background: #F63B3B;
+	position: relative;
+	top: 45px;
+	left: 10px;
+   
+}
+
+.texto-pop{
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	font-size: 15px;
+	padding:5px;
+}
